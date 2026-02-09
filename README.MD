@@ -1,55 +1,48 @@
-# 🐍 Snake Game
+# Matheus Madureira
 
-Um clássico jogo da cobrinha (Snake Game), desenvolvido para fins de estudo, prática de lógica de programação e diversão 🎮.
-
-O objetivo é simples: controlar a cobrinha, comer a comida que aparece na tela e crescer sem colidir com as paredes ou com o próprio corpo.
-
----
-
-## 📸 Demonstração
-
-> Em breve: GIF ou imagem do jogo em execução.
+Analista de Sistemas | Automação de Processos | Projetos de TI  
+Python • TypeScript • JavaScript • Git • SQL • Web
 
 ---
 
-## 🎯 Funcionalidades
+Sou analista de sistemas com foco em **automação, organização de processos e desenvolvimento de soluções práticas**, atuando na conexão entre tecnologia e necessidades reais do negócio.
 
-- Movimento da cobrinha em tempo real
-- Crescimento progressivo ao comer a comida
-- Sistema de pontuação
-- Detecção de colisão:
-  - Paredes
-  - Próprio corpo
-- Reinício do jogo após Game Over
+Tenho experiência na criação e manutenção de soluções que priorizam **clareza, eficiência, escalabilidade e manutenibilidade**, sempre com atenção a boas práticas e versionamento.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Projetos em Destaque
 
-- Linguagem: **(ex: Python / JavaScript / outra)**
-- Biblioteca / Framework: **(ex: Pygame, HTML Canvas, etc.)**
+### ⚙️ Ivida
+Projeto desenvolvido em **TypeScript**, voltado à estruturação e evolução contínua de uma aplicação real, com foco em organização de código e sustentabilidade técnica.
 
-> Ajuste essa seção conforme a stack do seu projeto.
+🔗 Repositório:  
+https://github.com/MatheusMadureira/ivida
 
 ---
 
-## 🚀 Como Executar o Projeto
+### 🌐 HTML & CSS Playground
+Repositório dedicado a testes e estudos de **HTML e CSS**, explorando layout, responsividade e boas práticas de estruturação visual.
 
-### Pré-requisitos
-- Ter a linguagem instalada na máquina  
-  Exemplo:
-  - Python 3.x  
-  - Node.js (se for JavaScript)
+🔗 Repositório:  
+https://github.com/MatheusMadureira/HTML-CSS
 
-### Passos
+---
 
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+## Tecnologias & Ferramentas
 
-# Acesse a pasta do projeto
-cd seu-repositorio
+- **Linguagens:** Python, JavaScript, TypeScript  
+- **Web:** HTML5, CSS3  
+- **Versionamento:** Git, GitHub  
+- **Banco de Dados:** SQL  
+- **Outros:** Automação de processos, organização de projetos, boas práticas de desenvolvimento
 
-# Execute o jogo
-# Exemplo para Python
-python main.py
+---
+
+## Contato
+
+- GitHub: https://github.com/MatheusMadureira
+
+---
+
+> Tecnologia bem aplicada resolve problemas reais de forma simples, clara e sustentável.
